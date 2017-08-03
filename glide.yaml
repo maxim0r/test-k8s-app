@@ -1,0 +1,4 @@
+package: github.com/maxim0r/test-k8s-app
+import:
+- package: github.com/takama/router
+  version: ^0.5.0

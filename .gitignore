@@ -1,0 +1,4 @@
+.coverprofile
+test-k8s-app
+vendor
+glide.lock
